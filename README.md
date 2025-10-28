@@ -260,6 +260,7 @@ If you find this helpful, please give us a Star!
 - [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
 - [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
 - [HeyGen](https://aitools.inc/tools/heygen) - Scale your video content effortlessly [![link]](https://www.heygen.com/)
+- [Genmi AI](https://genmi.ai/) -  [![link]](https://genmi.ai/)
 
 ### AI Video Editors
 
